@@ -1,7 +1,10 @@
-let value: string | number;
-value = "hello";
-value = 42;
+let mix: string | number;
+mix = 'Hello';
+mix = 50;
 
-let state: "enable" | "disable";
-state = "enable";
-state = "disable";
+let age: 'enable' | 'disable';
+age = 'enable';
+age = 'disable'; 
+
+console.log(mix);
+console.log(age);

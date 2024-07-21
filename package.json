@@ -1,5 +1,5 @@
 {
-  "name": "vite-project",
+  "name": "goit-typescript-hw-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,5 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.3.1"
-  },
-  "dependencies": {
-    "axios": "^1.7.2"
   }
 }
